@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @sflechas
-- 👀 I’m interested in web 3 development
-- 🌱 I’m currently learning MERN 
+- 👋 Hi, I’m Sandra (@sflechas)
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me here
 
